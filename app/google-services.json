@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286288152774",
+    "project_id": "uniconvo-e508c",
+    "storage_bucket": "uniconvo-e508c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286288152774:android:878cb16554e389cfd0efc7",
+        "android_client_info": {
+          "package_name": "com.example.uniconvo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286288152774-flbv8basclq0vcuchvbrk1h8vjae2b0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRqCI44lIR3ACNwRlOSCzQBS5yKqHYozY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286288152774-flbv8basclq0vcuchvbrk1h8vjae2b0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
